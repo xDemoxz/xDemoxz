@@ -1,5 +1,6 @@
 
 <h2 align=center > Hi there, my names is Nicolas Guarin  👋 </h2>
+Nicolas Guarin...
 
 <details open="">  
   
